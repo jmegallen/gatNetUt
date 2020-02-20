@@ -12,7 +12,7 @@ const Footer = class extends React.Component {
   render() {
     return (
       <footer className="footer">
-        <div className="content has-text-left">
+        <div className="content has-text-left social">
           <img
             src={logo}
             alt="Kraefted"
