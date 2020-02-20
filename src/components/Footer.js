@@ -16,10 +16,10 @@ const Footer = class extends React.Component {
           <img
             src={logo}
             alt="Kraefted"
-            style={{ width: '14em', height: '10em' }}
+            style={{ width: '1.5em', height: '1.5em' }}
           />
         </div>
-        <div className="column has-text-right is-4 social">
+        <div className="column has-text-right social">
           <a title="facebook" href="https://facebook.com">
             <img
               src={facebook}
