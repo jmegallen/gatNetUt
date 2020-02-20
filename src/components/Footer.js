@@ -2,6 +2,7 @@ import React from 'react'
 import { Link } from 'gatsby'
 
 import logo from '../img/logo.svg'
+import github from '../img/github-icon.svg'
 import facebook from '../img/social/facebook.svg'
 import instagram from '../img/social/instagram.svg'
 import twitter from '../img/social/twitter.svg'
@@ -100,6 +101,13 @@ const Footer = class extends React.Component {
                   <img
                     src={vimeo}
                     alt="Vimeo"
+                    style={{ width: '1em', height: '1em' }}
+                  />
+                </a>
+                <a title="github" href="https://github.com">
+                  <img
+                    src={github}
+                    alt="Github"
                     style={{ width: '1em', height: '1em' }}
                   />
                 </a>
