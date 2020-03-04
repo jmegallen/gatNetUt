@@ -11,8 +11,8 @@ import vimeo from '../img/social/vimeo.svg'
 const Footer = class extends React.Component {
   render() {
     return (
-      <footer className="footer">
-        <div className="content has-text-left social">
+      <footer className="columns footer">
+        <div className="column has-text-left social">
           <img
             src={logo}
             alt="Kraefted"
