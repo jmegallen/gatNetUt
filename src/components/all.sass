@@ -1,18 +1,30 @@
+
+@charset "utf-8"
+
 @import "~bulma/sass/utilities/initial-variables"
 
 // Import a Google Font
-@import url('https://fonts.googleapis.com/css?family=Nunito:400,700');
+@import url('https://fonts.googleapis.com/css?family=Montserrat:400,700')
 
 
-// Config vars
-// kftd logo brand color: #141633
+// Set your brand colors
 $kftd-blue: #2b2c41
 $kftd-blue-invert: #fff
+$blue: #d2ebff
+$brown: #41402b
+$beige: #edcc6f
 
+// Update Bulma's global variables
+$family-sans-serif: "Montserrat", sans-serif
+$widescreen-enabled: false
+$fullhd-enabled: false
+
+// Config vars
+// kftd logo brand color: #2b2c41
 $primary: $kftd-blue
 $primary-invert: $kftd-blue-invert
-$body-color: #2b2c41
-
+$body-color: $brown
+$link: $blue
 
 .navbar .navbar-menu
   box-shadow:none !important
@@ -61,11 +73,11 @@ $body-color: #2b2c41
     font-size: 18px
     font-size: 1rem
     line-height: 1.25
-    background-color: #fff
+    background-color: $kftd-blue-invert
     border-radius: .25rem
     text-decoration: none
     font-weight: 700
-    color: #141633
+    color: $primary
     text-align: center
     -webkit-box-shadow: inset 0 0 0 2px #2b2c41
     box-shadow: inset 0 0 0 2px #2b2c41
@@ -118,13 +130,13 @@ $menu-label-color: $white-ter
 
 // blog roll
 .blog-list-item.is-featured
-  background-color: #d2ebff;
+  background-color: $blue
 .blog-list-item header
-  display: flex;
-  margin-bottom: 1em;
+  display: flex
+  margin-bottom: 1em
 .blog-list-item .featured-thumbnail
-  flex-basis: 35%;
-  margin: 0 1.5em 0 0;
+  flex-basis: 35%
+  margin: 0 1.5em 0 0
 
 
 @import "~bulma"

@@ -30,8 +30,8 @@ export const ProductPageTemplate = ({
       <h2
         className="has-text-weight-bold is-size-1"
         style={{
-          boxShadow: '0.5rem 0 0 #404066, -0.5rem 0 0 #404066',
-          backgroundColor: '#404066',
+          boxShadow: '0.5rem 0 0 #2b2c41, -0.5rem 0 0 #2b2c41',
+          backgroundColor: '#2b2c41',
           color: 'white',
           padding: '1rem',
         }}
