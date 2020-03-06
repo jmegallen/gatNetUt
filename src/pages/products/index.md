@@ -53,13 +53,13 @@ main:
     optimal for the plants, farmers and the local environment.
   image1:
     alt: A close-up of a paper filter filled with ground coffee
-    image: /img/notebookWood.jpg
+    image: /img/htmlKftd.png
   image2:
     alt: A green cup of a coffee on a wooden table
-    image: /img/codeScreen.jpg
+    image: /img/css3Kftd.png
   image3:
     alt: Coffee beans
-    image: /img/dashboradFig.jpg
+    image: /img/js5kftd.png
 testimonials:
   - author: Elisabeth Kaurismäki
     quote: >-

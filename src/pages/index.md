@@ -18,24 +18,24 @@ description: >-
   bushwick.
 intro:
   blurbs:
-    - image: /img/laptopBlue.png
+    - image: /img/htmlKftd.png
       text: >
         Crucifix chillwave aesthetic swag copper mug gluten-free raw denim air
         plant try-hard health goth squid ugh actually. Truffaut shoreditch
         before they sold out, YOLO literally prism mustache.
-    - image: /img/flatMap.png
+    - image: /img/css3Kftd.png
       text: >
         Etsy tumeric mustache bicycle rights. Messenger bag offal letterpress
         cray gluten-free keytar kinfolk organic. Tofu locavore succulents edison
         bulb gochujang quinoa street art roof party af truffaut selvage put a
         bird on it yr.
-    - image: /img/laptopBlue.png
+    - image: /img/js5kftd.png
       text: >
         Pok pok vinyl blue bottle bicycle rights whatever vape. Cardigan
         chillwave vaporware street art jianbing. Live-edge migas lomo beard.
         Thundercats listicle tilde mustache sriracha gentrify beard hell of
         actually green juice.
-    - image: /img/laptopBlue.png
+    - image: /img/nodejsKftd.jpg
       text: >
         Swag chia bushwick, shoreditch master cleanse vape schlitz whatever.
         Fam pork belly hot chicken squid. Godard farm-to-table mustache, poutine
